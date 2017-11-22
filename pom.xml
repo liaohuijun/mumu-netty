@@ -130,14 +130,14 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/mumuhadoop/mumu-netty.git</connection>
-        <developerConnection>scm:git:git://github.com/mumuhadoop/mumu-netty.git</developerConnection>
-        <url>https://github.com/mumuhadoop/mumu-netty.git</url>
+        <connection>scm:git:git://github.com/mumucommon/mumu-netty.git</connection>
+        <developerConnection>scm:git:git://github.com/mumucommon/mumu-netty.git</developerConnection>
+        <url>https://github.com/mumucommon/mumu-netty.git</url>
     </scm>
     <!--issues-->
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/mumuhadoop/mumu-netty/issues</url>
+        <url>https://github.com/mumucommon/mumu-netty/issues</url>
     </issueManagement>
     <!-- 配置项目版本管理 -->
     <distributionManagement>
